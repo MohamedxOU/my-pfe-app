@@ -1,0 +1,63 @@
+// Export pages
+export '/pages/login/login_screen/login_screen_widget.dart'
+    show LoginScreenWidget;
+export '/pages/login/inscription/inscription_widget.dart'
+    show InscriptionWidget;
+export '/pages/login/mot_de_passe_oublie_page/mot_de_passe_oublie_page_widget.dart'
+    show MotDePasseOubliePageWidget;
+export '/pages/login/contact_support/contact_support_widget.dart'
+    show ContactSupportWidget;
+export '/pages/admin/admin_dash_board/admin_dash_board_widget.dart'
+    show AdminDashBoardWidget;
+export '/pages/admin/add_users_page/add_users_page_widget.dart'
+    show AddUsersPageWidget;
+export '/pages/admin/liste_dept_page/liste_dept_page_widget.dart'
+    show ListeDeptPageWidget;
+export '/pages/admin/liste_users_page/liste_users_page_widget.dart'
+    show ListeUsersPageWidget;
+export '/pages/common_pages/upload_file_pgae/upload_file_pgae_widget.dart'
+    show UploadFilePgaeWidget;
+export '/pages/common_pages/conversation/conversation_widget.dart'
+    show ConversationWidget;
+export '/pages/common_pages/settings_page/settings_page_widget.dart'
+    show SettingsPageWidget;
+export '/pages/common_pages/editer_profil_page/editer_profil_page_widget.dart'
+    show EditerProfilPageWidget;
+export '/pages/common_pages/supprimer_compte_page/supprimer_compte_page_widget.dart'
+    show SupprimerComptePageWidget;
+export '/pages/common_pages/changer_mot_de_passe/changer_mot_de_passe_widget.dart'
+    show ChangerMotDePasseWidget;
+export '/pages/login/inscription_succed_page/inscription_succed_page_widget.dart'
+    show InscriptionSuccedPageWidget;
+export '/pages/login/inscription_echoue_page/inscription_echoue_page_widget.dart'
+    show InscriptionEchouePageWidget;
+export '/pages/login/user_details_enter/user_details_enter_widget.dart'
+    show UserDetailsEnterWidget;
+export '/pages/client/etudiant/etudiant_interface/etudiant_interface_widget.dart'
+    show EtudiantInterfaceWidget;
+export '/pages/client/etudiant/etudiant_interface_no_group/etudiant_interface_no_group_widget.dart'
+    show EtudiantInterfaceNoGroupWidget;
+export '/pages/client/etudiant/joindre_group_screen/joindre_group_screen_widget.dart'
+    show JoindreGroupScreenWidget;
+export '/pages/client/enseignant/ens_dash_board_no_group/ens_dash_board_no_group_widget.dart'
+    show EnsDashBoardNoGroupWidget;
+export '/pages/client/enseignant/ens_dash_board_group/ens_dash_board_group_widget.dart'
+    show EnsDashBoardGroupWidget;
+export '/pages/client/chef_dept/chef_dept_interface_no_groupe/chef_dept_interface_no_groupe_widget.dart'
+    show ChefDeptInterfaceNoGroupeWidget;
+export '/pages/client/chef_dept/chef_dept_interface_group/chef_dept_interface_group_widget.dart'
+    show ChefDeptInterfaceGroupWidget;
+export '/pages/client/chef_dept/gest_dept_chef_dept/gest_dept_chef_dept_widget.dart'
+    show GestDeptChefDeptWidget;
+export '/pages/client/chef_dept/add_annonce_dept/add_annonce_dept_widget.dart'
+    show AddAnnonceDeptWidget;
+export '/pages/client/enseignant/gest_dept_ens/gest_dept_ens_widget.dart'
+    show GestDeptEnsWidget;
+export '/pages/client/etudiant/gest_dept_etudiant/gest_dept_etudiant_widget.dart'
+    show GestDeptEtudiantWidget;
+export '/pages/common_pages/espace_groupe/espace_groupe_widget.dart'
+    show EspaceGroupeWidget;
+export '/pages/common_pages/group_infos_page/group_infos_page_widget.dart'
+    show GroupInfosPageWidget;
+export '/pages/common_pages/add_annonce_group/add_annonce_group_widget.dart'
+    show AddAnnonceGroupWidget;

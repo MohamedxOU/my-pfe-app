@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "132966925171",
+    "firebase_url": "https://syncpfe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "syncpfe",
+    "storage_bucket": "syncpfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132966925171:android:6b393042ec3db78f047b06",
+        "android_client_info": {
+          "package_name": "com.example.sync_pfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDOlVTIl73N5prMFXeHjpXMZEH_hFjAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132966925171:android:73385275e43d8339047b06",
+        "android_client_info": {
+          "package_name": "com.example.sync_pfe_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDOlVTIl73N5prMFXeHjpXMZEH_hFjAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132966925171:android:f5c6302e15001f38047b06",
+        "android_client_info": {
+          "package_name": "com.mycompany.pfeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDOlVTIl73N5prMFXeHjpXMZEH_hFjAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
